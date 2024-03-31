@@ -1,0 +1,10 @@
+# Ignore files with .csv extension
+*.csv
+
+# Ignore files with .data extension
+*.data
+
+# Ignore files with .names extension
+*.names
+
+*txt
